@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formQuiz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    padding: 20px;
+
+}
+
+.btnQuiz {
+    margin-left: 10px;
+    background-color: #d0f2fd;
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid #7ea8b7;
+}
+
+.inpQuiz {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #7ea8b7;
+    margin-left: 10px;
+}
+
+.labelQuiz {
+
+
+    font-size: 20px;
+    color: #355b69;
+}

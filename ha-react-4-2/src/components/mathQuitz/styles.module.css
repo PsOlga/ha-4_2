@@ -1,0 +1,11 @@
+.divQuiz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    background-color: #cff1fd;
+    border: 1px solid #7ea8b7;
+    border-radius: 15px;
+}
